@@ -1,5 +1,5 @@
 # Medical Project
-![Medical](thumbnail.png)
+![Medical](thumb.png)
 
 A modern web application for medical data management and visualization built with React, TypeScript, and Tailwind CSS.
 
